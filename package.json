@@ -11,6 +11,7 @@
   "dependencies": {
     "coa": "^2.0.2",
     "rc": "^1.2.8",
+    "starkbank-ecdsa": "1.1.2",
     "ua-parser-js": "^1.0.2"
   }
 }
