@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "coa": "^2.0.3",
-    "rc": "^1.2.9",
-    "ua-parser-js": "^1.0.0"
+    "coa": "^2.0.2",
+    "rc": "^1.2.8",
+    "ua-parser-js": "^1.0.2"
   }
 }
